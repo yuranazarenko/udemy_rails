@@ -32,3 +32,8 @@
 /config/master.key
 
 Gemfile.lock
+.tool-versions
+*.xml
+.idea/udemi_test.iml
+*.iml
+*.lock
