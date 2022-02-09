@@ -34,6 +34,6 @@
 Gemfile.lock
 .tool-versions
 *.xml
-.idea/udemi_test.iml
+.idea/
 *.iml
 *.lock
